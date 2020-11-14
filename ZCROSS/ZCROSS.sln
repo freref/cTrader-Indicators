@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZCROSS", "ZCROSS\ZCROSS.csproj", "{2B3F5818-64E6-442E-B3FC-36AB64B75F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3F5818-64E6-442E-B3FC-36AB64B75F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3F5818-64E6-442E-B3FC-36AB64B75F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3F5818-64E6-442E-B3FC-36AB64B75F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3F5818-64E6-442E-B3FC-36AB64B75F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZADX", "..\ZADX\ZADX\ZADX.csproj", "{9D36E005-FC45-4F5B-BC6C-4FC88B882BE4}"
+EndProject
